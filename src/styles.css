@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input {
+  margin-bottom: 2rem;
+}
+ul li {
+  list-style-type: none;
+  padding: 5px;
+  font-size: 1.1rem;
+}
